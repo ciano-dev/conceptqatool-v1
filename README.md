@@ -16,6 +16,7 @@ Using CMD/Terminal or VS Code, locate your cloned repository and run.
 yarn install
 ```
 Do this action too inside `client folder`
+
 Once root folder and client finished installing the dependencies, make sure you are in the root folder and run `yarn run dev` in your terminal.
 
 ### General Requirements
