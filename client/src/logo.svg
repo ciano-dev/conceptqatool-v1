@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="185.85" height="266.5" viewBox="0 0 185.85 266.5">
+  <defs>
+    <clipPath id="clip-Artboard_1">
+      <rect width="185.85" height="266.5"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard – 1" clip-path="url(#clip-Artboard_1)">
+    <g id="Group_1" data-name="Group 1" transform="translate(-91.074 -27.252)">
+      <path id="hex-ico" d="M377.352,55.775a13.273,13.273,0,0,0-7.179-11.621L292.6,2.389a15.126,15.126,0,0,0-14.106-.07L198.811,44.178A13.284,13.284,0,0,0,191.5,55.87v87.418a13.284,13.284,0,0,0,7.312,11.692l86.76,45.574-1.76,61.042a5.4,5.4,0,0,0,3.971,5.251,5.919,5.919,0,0,0,6.486-2.113l80.646-112.347a12.826,12.826,0,0,0,2.435-7.487Z" transform="translate(-100.426 26.644)" fill="#f22076"/>
+      <text id="QA" transform="translate(123 159)" fill="#fff" font-size="90" font-family="Karla, sans-serif" font-weight="700"><tspan x="0" y="0">QA</tspan></text>
+    </g>
+  </g>
+</svg>

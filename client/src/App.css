@@ -1,0 +1,100 @@
+@import '~antd/dist/antd.css';
+#components-layout-demo-top-side .logo {
+  float: left;
+  width: 120px;
+  height: 31px;
+  margin: 16px 24px 16px 0;
+  background: rgba(255, 255, 255, 0.3);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@700&display=swap');
+
+#sider{
+  min-height: 84vh;
+}
+
+.ant-row-rtl #components-layout-demo-top-side .logo {
+  float: right;
+  margin: 16px 0 16px 24px;
+}
+
+.site-layout-background {
+  background: #fff;
+}
+
+.ant-upload.ant-upload-drag{
+  height: auto;
+}
+
+.innov-iframe{
+  border: 0;
+  background: #f3f3f3;
+}
+
+.title{
+  background-image: linear-gradient(
+90deg
+,#e0238c,#f22076 47.43%,#f96666);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+    word-break: break-word;
+    font-family: 'Karla', sans-serif;
+    font-size: 1.4rem;
+    color: #000;
+}
+
+.pageHeader > div > div > span{
+  color: #fff;
+    font-family: 'Karla', sans-serif;
+    font-size: 1.4rem;
+}
+
+.ant-btn-dashed:hover, 
+.ant-btn-dashed:active, 
+.ant-btn-dashed:focus, 
+.listBtn:active, 
+.listBtn:hover{
+  color: #ffffff;
+  border-color: #ffffff;
+  background: transparent;
+}
+
+.ant-btn-dashed{
+    color: #ffffff;
+    border-color: #ffffff;
+    background: transparent;
+}
+
+.listBtn, 
+.listBtn:focus{
+  color: #ffffff;
+}
+
+.pageHeader{
+      background-image: -webkit-gradient(linear, left top, left bottom, from(#0d0423), to(#140633));
+    background-image: linear-gradient(
+180deg
+, #0d0423, #140633);
+}
+
+.ant-layout-sider-zero-width-trigger{
+  background: #f22076;
+}
+
+.iframeContainer{
+  padding: 12px;
+  border: 1px solid;
+  display: block;
+  margin: 20px auto;
+  overflow: hidden;
+  border: 1px solid #bdbaba;
+  border-radius: 5.5px;
+  padding: 10px;
+  background: white;
+  box-shadow: 0 1px 15px 1px rgb(90 90 90 / 8%);
+}
+
+.ant-spin-dot-item { background-color: #f22076; }
