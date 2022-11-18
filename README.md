@@ -9,7 +9,7 @@ See [Live Demo](https://www.adlib-qa.tools/ "Live Demo")
 ![](https://qatoolv2.herokuapp.com/static/media/logo.9c182765.svg)
 
 
-##### Instructions:
+#### Instructions:
 
 Using CMD/Terminal or VS Code, locate your cloned repository and run. 
 ```bash
