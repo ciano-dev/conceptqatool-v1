@@ -26,7 +26,7 @@ Once root folder and client finished installing the dependencies, make sure you 
 - MongoDB Atlas
 - Google Cloud
 
-####Client Dependencies
+#### Client Dependencies
 - react 17.0.2
 - antd 4.16.11
 - axios 0.21.1
@@ -35,7 +35,7 @@ Once root folder and client finished installing the dependencies, make sure you 
 - react-router-dom 5.2.0
 - qrcode 1.4.4
 
-####Server Dependencies
+#### Server Dependencies
 
 - @google-cloud/storage 5.13.0
 - adm-zip 0.5.5
