@@ -17,7 +17,11 @@ yarn install
 ```
 Do this action too inside `client folder`
 
-Once root folder and client finished installing the dependencies, make sure you are in the root folder and run `yarn run dev` in your terminal.
+Once root folder and client finished installing the dependencies, make sure you are in the root folder and run:
+```bash
+yarn run dev
+```
+in your terminal to start the application.
 
 ### General Requirements
 
