@@ -22,6 +22,8 @@ yarn run dev
 ```
 in your terminal to start the application.
 
+------------
+
 ### General Requirements
 
 - Node 16.18.0
